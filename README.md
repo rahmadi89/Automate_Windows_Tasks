@@ -8,3 +8,6 @@ will turn off firewall even if the coresponding service had been disabled.
 
 Set_VirtualMemory_xp_win7.bat
 Set Virtual Memory to `3*Total Ram` in `C:\pagefile.sys`.
+
+Write_XML.vbs
+Edit xml File.
